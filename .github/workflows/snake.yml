@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Game from GitHub Contribution Graph
-        uses: Platane/sky@master
+        uses: Platane/snk@v3  # ✅ CORRECCIÓN: es snk, no sky
         with:
           github_user_name: L3x-00
           outputs: |

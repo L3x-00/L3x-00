@@ -1,37 +1,196 @@
-<img width="854" height="200" alt="alex encabezado" src="https://github.com/user-attachments/assets/cb324458-e98c-4883-bf32-d7ef4a8e612a" />
+<img width="854" height="200" alt="alex encabezado" src="https://github.com/user-attachments/assets/3f0a2d4e-d325-43d4-a805-c0b4553e09df" />
+<div align="center">
 
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 16px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#1a1410"/><stop offset="100%" stop-color="#0f0b08"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100)">
-        <path id="myPath" fill="url(#linear)" d="M52.8,-67C68,-61.6,79.7,-45.6,82.5,-28.7C85.4,-11.8,79.5,6,71.4,20.8C63.2,35.5,53,47.1,40.7,53.3C28.5,59.4,14.2,60,-2.1,63C-18.5,65.9,-37,71.2,-52.3,66C-67.6,60.9,-79.7,45.4,-81.5,29C-83.2,12.7,-74.6,-4.4,-68.7,-22.2C-62.8,-40.1,-59.5,-58.7,-48.4,-65.4C-37.4,-72.2,-18.7,-67.1,0,-67.1C18.8,-67.2,37.6,-72.4,52.8,-67Z" >
-          <animate attributeName="d" dur="10s" values="
-            M52.8,-67C68,-61.6,79.7,-45.6,82.5,-28.7C85.4,-11.8,79.5,6,71.4,20.8C63.2,35.5,53,47.1,40.7,53.3C28.5,59.4,14.2,60,-2.1,63C-18.5,65.9,-37,71.2,-52.3,66C-67.6,60.9,-79.7,45.4,-81.5,29C-83.2,12.7,-74.6,-4.4,-68.7,-22.2C-62.8,-40.1,-59.5,-58.7,-48.4,-65.4C-37.4,-72.2,-18.7,-67.1,0,-67.1C18.8,-67.2,37.6,-72.4,52.8,-67Z; M42.3,-55.2C55.2,-48.7,66.6,-37,69.3,-23.7C72,-10.4,66,4.6,58.3,16.1C50.6,27.6,41.2,35.6,31.1,43.9C21.1,52.1,10.6,60.6,-1.3,62.5C-13.2,64.3,-26.4,59.4,-37.6,51.5C-48.8,43.6,-57.9,32.7,-61,20.5C-64.1,8.3,-61.1,-5.3,-57.9,-19.9C-54.7,-34.6,-51.3,-50.3,-41.6,-57.8C-32,-65.3,-16,-64.7,-0.7,-63.7C14.6,-62.8,29.3,-61.6,42.3,-55.2Z; M49.2,-63.6C62.2,-58.3,70.1,-41.8,74.6,-24.9C79.1,-8.1,80.3,9.2,76.5,26.2C72.8,43.2,64.2,59.9,50.7,68.4C37.1,76.9,18.5,77.2,2.3,74.1C-13.9,70.9,-27.9,64.2,-41.2,55.6C-54.6,47.1,-67.4,36.6,-74.5,22.4C-81.7,8.2,-83.2,-9.7,-74.7,-20.8C-66.3,-31.9,-47.9,-36.3,-33.8,-41.2C-19.7,-46.2,-9.8,-51.8,4.1,-57.5C18.1,-63.1,36.2,-68.9,49.2,-63.6Z;
-            M52.8,-67C68,-61.6,79.7,-45.6,82.5,-28.7C85.4,-11.8,79.5,6,71.4,20.8C63.2,35.5,53,47.1,40.7,53.3C28.5,59.4,14.2,60,-2.1,63C-18.5,65.9,-37,71.2,-52.3,66C-67.6,60.9,-79.7,45.4,-81.5,29C-83.2,12.7,-74.6,-4.4,-68.7,-22.2C-62.8,-40.1,-59.5,-58.7,-48.4,-65.4C-37.4,-72.2,-18.7,-67.1,0,-67.1C18.8,-67.2,37.6,-72.4,52.8,-67Z"
-            repeatCount="indefinite"
-          />
-        </path>
-      </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#E8875C;paint-order:stroke fill;" stroke="#E8875C" stroke-width="1" >Aless Dev</text>
-        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="60%" class="desc" style="fill:#E8875C;">Fullstack Developer | AI Consultant | Tech Architect</text>
-      </svg>
-"Desarrollador Fullstack y Consultor Tecnológico. Transformo problemas complejos en sistemas robustos, escalables y visualmente impactantes."
+### Fullstack Developer • Technology Consultant • Founder of Team Less Dev
 
-        🎓 Estudiante de Desarrollo de Sistemas de la Información — Escuela Superior Continental🚀 Fundador de Team Less Dev
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Technology+Consultant;Mobile+%26+Web+Developer;AI+Enthusiast;Building+Digital+Products+for+Peru" />
 
-        
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+Soy **Alexander Huanaco Quispe (Aless Dev)**, desarrollador Fullstack y consultor tecnológico enfocado en la construcción de productos digitales escalables.
+
+Me apasiona diseñar arquitecturas sólidas, desarrollar experiencias de usuario modernas y transformar ideas en soluciones reales que generen impacto.
+
+🎓 Estudiante de Desarrollo de Sistemas de la Información
+🏢 Fundador de Team Less Dev
+🌎 Perú
+
+---
+
+## 💼 Actualmente
+
+* 🚀 Desarrollando **Servi**, marketplace de servicios para Perú.
+* 🤖 Explorando integración de Inteligencia Artificial en sistemas empresariales.
+* 📱 Construyendo aplicaciones multiplataforma con Flutter.
+* ⚙️ Diseñando arquitecturas escalables con NestJS y PostgreSQL.
+* 🎨 Mejorando experiencias UI/UX para productos digitales.
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,bootstrap,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,python,postgres,mysql,redis" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,firebase,supabase,vercel" />
+</p>
+
+### Diseño e IA
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Herramientas IA**
+
+ChatGPT • Claude • Gemini • DeepSeek • GitHub Copilot • Z.ai
+
+---
+
+# 🏆 Proyectos Destacados
+
+## 🛒 Servi
+
+### Marketplace de Servicios para Perú
+
+🌐 https://www.oficioapp.org.pe/
+
+#### Características
+
+* Geolocalización inteligente
+* Marketplace de oficios y servicios
+* Integración WhatsApp API
+* Panel administrativo
+* Gestión de proveedores
+* Métricas en tiempo real
+* Arquitectura escalable
+* Aplicación Web y Mobile
+
+#### Stack
+
+Flutter • NestJS • Next.js • PostgreSQL • Redis • Supabase • Socket.io • Firebase • MercadoPago
+
+#### Rol
+
+👨‍💻 Founder & Lead Developer
+
+---
+
+## 🚗 Xtreme Performance
+
+🌐 https://xtremeperformancepe.com/
+
+📦 https://github.com/lumaxiviba/xtremeperformance
+
+Sistema empresarial para talleres automotrices con:
+
+* RBAC
+* Auditoría técnica
+* Chatbot integrado
+* Modo oscuro
+* Validación de datos
+
+**Rol:** QA Tester & Usuario Funcional
+
+---
+
+## 🏥 Policlínico San Pedro
+
+📦 https://github.com/L3x-00/San-Pedro
+
+Sistema médico de escritorio que incluye:
+
+* Triaje automatizado
+* Historia clínica digital
+* Gestión de citas
+* Reportes imprimibles
+* Analítica visual
+
+**Rol:** Creador Principal
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3x-00&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3x-00&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=L3x-00&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Conecta Conmigo
+
+<p align="left">
+
+<a href="https://github.com/L3x-00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alexander-huanaco-quispe-0290362a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://wa.me/message/FLOZGX5VEVAYP1">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://oficioapp.org.pe/p/desarrollador-full-stack">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge"/>
+</a>
+
+<a href="mailto:ronla.angarita31@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Filosofía
+
+*"La tecnología no se trata de código, se trata de resolver problemas reales."*
+
+### Team Less Dev ©
+
+Construyendo productos digitales con impacto real.
+
+</div>
+![Uploading alex encabezado.svg…]()

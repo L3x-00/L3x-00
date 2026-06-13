@@ -1,138 +1,110 @@
-<img width="854" height="200" alt="alex encabezado" src="https://github.com/user-attachments/assets/3f0a2d4e-d325-43d4-a805-c0b4553e09df" />
 <div align="center">
-
-### Fullstack Developer • Technology Consultant • Founder of Team Less Dev
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Technology+Consultant;Mobile+%26+Web+Developer;AI+Enthusiast;Building+Digital+Products+for+Peru" />
-
+  <img width="1536" height="1024" alt="ChatGPT Image 12 jun 2026, 21_43_46" src="https://github.com/user-attachments/assets/73c6f82a-2efe-407b-b3d7-c2265b7c93d3" />
 </div>
 
----
-
-## 🚀 Sobre mí
-
-Soy **Alexander Huanaco Quispe (Aless Dev)**, desarrollador Fullstack y consultor tecnológico enfocado en la construcción de productos digitales escalables.
-
-Me apasiona diseñar arquitecturas sólidas, desarrollar experiencias de usuario modernas y transformar ideas en soluciones reales que generen impacto.
-
-🎓 Estudiante de Desarrollo de Sistemas de la Información
-🏢 Fundador de Team Less Dev
-🌎 Perú
-
----
-
-## 💼 Actualmente
-
-* 🚀 Desarrollando **Servi**, marketplace de servicios para Perú.
-* 🤖 Explorando integración de Inteligencia Artificial en sistemas empresariales.
-* 📱 Construyendo aplicaciones multiplataforma con Flutter.
-* ⚙️ Diseñando arquitecturas escalables con NestJS y PostgreSQL.
-* 🎨 Mejorando experiencias UI/UX para productos digitales.
-
----
-
 # 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### Frontend
+### 🎨 Frontend & UI
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,bootstrap,html,css" />
-</p>
 
-### Backend
+</td>
 
-<p>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,python,postgres,mysql,redis" />
-</p>
 
-### Mobile
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
+<tr>
+<td align="center" width="50%">
 
-### DevOps & Cloud
+### 📱 Mobile, Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,firebase,supabase,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,docker,supabase,vercel,cloudflare" />
 
-### Diseño e IA
+</td>
 
-<p>
+<td align="center" width="50%">
+
+### 🤖 Design & AI
+
 <img src="https://skillicons.dev/icons?i=figma" />
-</p>
 
-**Herramientas IA**
+<br><br>
 
 ChatGPT • Claude • Gemini • DeepSeek • GitHub Copilot • Z.ai
 
----
+</td>
+</tr>
+</table>
 
+---
 # 🏆 Proyectos Destacados
 
-## 🛒 Servi
+<table>
+<tr>
 
-### Marketplace de Servicios para Perú
+<td width="50%">
+
+### 🛒 Servi
+
+**Marketplace de Servicios para Perú**
 
 🌐 https://www.oficioapp.org.pe/
 
-#### Características
+Marketplace de servicios con geolocalización inteligente, búsqueda jerárquica, integración con WhatsApp API, panel administrativo, gestión de proveedores y métricas en tiempo real.
 
-* Geolocalización inteligente
-* Marketplace de oficios y servicios
-* Integración WhatsApp API
-* Panel administrativo
-* Gestión de proveedores
-* Métricas en tiempo real
-* Arquitectura escalable
-* Aplicación Web y Mobile
+**Stack:** Flutter • NestJS • Next.js • PostgreSQL • Redis • Supabase • Socket.io • Firebase • MercadoPago
 
-#### Stack
+**Rol:** Founder & Lead Developer
 
-Flutter • NestJS • Next.js • PostgreSQL • Redis • Supabase • Socket.io • Firebase • MercadoPago
+</td>
 
-#### Rol
+<td width="50%">
 
-👨‍💻 Founder & Lead Developer
-
----
-
-## 🚗 Xtreme Performance
+### 🚗 Xtreme Performance
 
 🌐 https://xtremeperformancepe.com/
 
 📦 https://github.com/lumaxiviba/xtremeperformance
 
-Sistema empresarial para talleres automotrices con:
+Software empresarial para talleres automotrices con control RBAC, auditoría técnica, chatbot asistente, validaciones en tiempo real y modo oscuro.
 
-* RBAC
-* Auditoría técnica
-* Chatbot integrado
-* Modo oscuro
-* Validación de datos
+**Stack:** PHP • JavaScript • HTML • CSS • MySQL • Apache
 
 **Rol:** QA Tester & Usuario Funcional
 
----
+</td>
 
-## 🏥 Policlínico San Pedro
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🏥 Policlínico San Pedro
 
 📦 https://github.com/L3x-00/San-Pedro
 
-Sistema médico de escritorio que incluye:
+Plataforma médica de escritorio para gestión integral de pacientes, triaje automatizado, historias clínicas digitales, gestión de citas y analítica visual.
 
-* Triaje automatizado
-* Historia clínica digital
-* Gestión de citas
-* Reportes imprimibles
-* Analítica visual
+**Stack:** Laravel • PHP • JavaScript • Bootstrap • MySQL
 
 **Rol:** Creador Principal
 
+</div>
+
 ---
 
-# 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
 
@@ -143,8 +115,7 @@ Sistema médico de escritorio que incluye:
 </div>
 
 ---
-
-# 🔥 Racha de Contribuciones
+🔥 Racha de Contribuciones
 
 <div align="center">
 
@@ -152,9 +123,7 @@ Sistema médico de escritorio que incluye:
 
 </div>
 
----
-
-# 🌐 Conecta Conmigo
+ 🌐 Conecta Conmigo
 
 <p align="left">
 
@@ -193,4 +162,3 @@ Sistema médico de escritorio que incluye:
 Construyendo productos digitales con impacto real.
 
 </div>
-![Uploading alex encabezado.svg…]()
